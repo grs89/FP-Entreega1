@@ -1,0 +1,20 @@
+ID Producto;Refencia;Precio por unidad
+1;Galaxy a30 Negro;$ 1.200.000
+2;Galaxy a54 Blanco;$ 1.500.000
+3;Galaxy s23 Negro;$ 4.500.000
+4;Iphone 13 128GB Azul Medianoche;$ 3.200.000
+5;Iphone 13 256GB Blanco;$ 3.500.000
+6;Iphone 14 128GB Blanco;$ 3.800.000
+7;Iphone 14 256GB Negro;$ 4.200.000
+8;Iphone 15 256GB Negro;$ 4.500.000
+9;Iphone 15 500gb Negro;$ 5.500.000
+10;Cargador Samsung 25 w;$ 80.000
+11;Cargador Iphone 20 w;$ 120.000
+12;Airpods Blanco;$ 650.000
+
+ID Producto;Refencia;Precio por unidad
+1;Computador 15 pulgadas;$ 2.000.000
+2;Tablet 12 Pulgadas;$ 1.500.000
+3;Tablet 10 Pulgadas;$ 4.500.000
+4;Apple pencil 3g;$ 3.200.000
+5;Apple pencil 2g;$ 3.500.000
